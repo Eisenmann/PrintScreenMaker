@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintScreenMaker", "PrintScreenMaker.csproj", "{8CA13647-CD4B-49F4-ACC1-F1B2211F024D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA13647-CD4B-49F4-ACC1-F1B2211F024D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA13647-CD4B-49F4-ACC1-F1B2211F024D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA13647-CD4B-49F4-ACC1-F1B2211F024D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA13647-CD4B-49F4-ACC1-F1B2211F024D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA972BE4-F757-4F25-96AF-8E69B5D3202C}
+	EndGlobalSection
+EndGlobal
